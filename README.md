@@ -1,7 +1,11 @@
 # OSS Final Project(HGU 2022-1)
+
 Handong Global University
+
 21800125 KimYounghun
+
 CSEE
+
 **Project title: TODOLIST**  
 
 **YOUTUBE LINK: https://youtu.be/ypQ4hXcg7R4**
