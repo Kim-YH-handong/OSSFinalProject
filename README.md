@@ -12,11 +12,20 @@ CSEE
 
 ## What does this project do?
 
-This project was made with tkinter in Python to provide users some functions to plan tasks, efficiently. For example, "add task" function add task to task list so that the user can check what they planned to do. Not only that, "done task" function allow user to distinguish not finished task and finished task.
+This project was made with tkinter in Python to provide users some functions to plan tasks, efficiently. User can add task and manage them with functions provided by the project.
 
 ## Why is this project useful?
 
-Modern people do lots of work in a day. So, sometime, they forget what they planned to do. To solve this problem this project was created.
+- Provide function to add work to do.
+- Provide function to check finished work that user added from first function.
+- Provide function to distinguish finished work and not finished work.
+- Provide function to delete all the finished work.
+- Provide function to save works that user added.
+- Provide function to get previous todolist that user saved.
+- Provide function to get random task among list.
+- Provide function to know how many tasks exist.
+
+These functions can provide users to manage time, efficiently. Therefore, we can say this project is very useful.
 
 ## How do I get started?
 
@@ -30,6 +39,7 @@ Modern people do lots of work in a day. So, sometime, they forget what they plan
 
 Studying tkinter module in python can help you to understand the project, easily. Not only that, studying basic concepts in python can help you to understand each function code in Todo.py. 
 If you have any question contact me through this email.
+
 Email: dudgjs4248@gmail.com
 
 ## References
